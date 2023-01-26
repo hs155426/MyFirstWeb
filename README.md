@@ -12,3 +12,7 @@ Das Ziel unserer Website soll die Popularitätssteigerung sein. Wir wollen errei
 # Zielgruppe...
 
 Für alle Jugendliebenden und Junggebliebenen
+
+# Autoren...
+
+hs155426 & ds155434
